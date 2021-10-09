@@ -1,4 +1,4 @@
-# freecell-solitaire
+# FreeCellSolitaire
 A text-based Java program that is modeled after the multi-move freecell solitaire card game. Follows the same basic rules as solitaire. Thoroughly unit tested using JUnit 4 and created using the Model-View-Controller pattern.
 
 ## How to Play
